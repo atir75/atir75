@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @atir75 or Rita
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning C#, Java, CSS, Js and Angular
-- 📫 How to reach me on instagram: @rrita_07 
+- 👋 Olá, me chamo Rita
+- 👀 Sou desenvolvedora full stack
+- 🌱 Minhas habilidades são: C#, Js, CSS, Angular e React
+- 📫 Você pode me encontrar no instagram: @rrita_07
+-    Estudos há mais de 2 anos na área
 
 <!---
 atir75/atir75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
