@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Rita
 - 👀 Sou desenvolvedora back end C#
-- 🌱 Minhas habilidades são: C#, Js, CSS, Typescript e React
+- 🌱 Minhas habilidades são: C#, Js, CSS, Typescript, React e Java
 -    Conhecimento com bancos Oracle, SQLServer, MySQL e MongoDB
 - 📫 Você pode me encontrar no instagram: @rrita_07
 -    Estudos há mais de 2 anos na área
