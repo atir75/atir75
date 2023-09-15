@@ -30,9 +30,7 @@ public static class Maria
 
 ## Status
 
-<a href="https://github.com/atir75">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atir75&theme=dracula&hide_langs_below=1" />
-</a>
+[![atir75's GitHub stats](https://github-readme-stats.vercel.app/api?username=atir75)](https://github.com/atir75/github-readme-stats)
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atir75&show_icons=true&theme=dracula&line_height=27" alt="**Maria** github stats"/>
