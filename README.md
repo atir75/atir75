@@ -4,7 +4,7 @@
 
 ## Mais sobre mim
 
-<img align="right" width="500" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
 
 ```CSharp
 public static class Maria
