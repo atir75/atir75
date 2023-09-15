@@ -6,16 +6,15 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Maria** {
- val name = "Maria Rita Mendonça"
- val acknowledgements = "Developer Backend"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("C#", "Java", "JavaScript", "Python", "React")
+public static class Maria
+{
+    public static string Name { get; } = "Maria Rita Mendonça";
+    public static string Acknowledgements { get; } = "Developer Backend";
 
+    public static string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
+    public static List<string> Languages { get; } = new List<string> { "C#", "Java", "JavaScript", "Python", "React" };
 }
-```
 
 ## Linguagens e ferramentas
 
