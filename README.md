@@ -32,9 +32,6 @@ public static class Maria
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atir75&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=atir75&show_icons=true&theme=dracula&line_height=27" alt="**Maria** github stats"/>
-</a>
 
 [linkedin]: [https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/maria-rita-mendon%C3%A7a-559048167)
 
