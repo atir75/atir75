@@ -4,7 +4,7 @@
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh1bHRqdHg4cWM2bHhjd3MzaGR1eXd6NzNpOG5yMnFkOGc2anBhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif)" />
 
 ```CSharp
 public static class Maria
