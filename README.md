@@ -11,7 +11,6 @@ public static class Maria
 {
     public static string Name { get; } = "Maria Rita Mendonça";
     public static string Acknowledgements { get; } = "Developer Backend";
-    public static string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
     public static List<string> Languages { get; } = new List<string> { "C#", "Java", "JavaScript", "Python", "React" };
 }
 ```
