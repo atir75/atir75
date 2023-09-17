@@ -27,6 +27,8 @@ public static class Maria
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+
 ## Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atir75&show_icons=true&theme=tokyonight)
