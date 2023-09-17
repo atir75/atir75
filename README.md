@@ -27,8 +27,16 @@ public static class Maria
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></code>
+          
 
 ## Status
 
