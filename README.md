@@ -19,9 +19,10 @@ public static class Maria
 ## Linguagens e ferramentas
 
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code>     
+    
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code> 
 
 ## Status
 
